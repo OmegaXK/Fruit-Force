@@ -14,6 +14,7 @@
 - The bite sounds were downloaded from https://www.videvo.net/royalty-free-sound-effects
 - The apple, pineapple, and orange were from the making games resource pack. Download these from https://www.dk.com/uk/information/the-python-games-resource-pack/
 - The cherry was from the "Invent your own Computer Games with Python" book's resource pack. Download the cherry at https://inventwithpython.com/invent4thed/
+- The unused gameicon was also from this pack
 - The title screen was modeled after the Among Us title screen
 - Every other image was either from Among Us or from the internet
 - All programming done by me
