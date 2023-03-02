@@ -1,7 +1,7 @@
 # Fruit-Force
-- Start the game by pressing play
+- Start the game by pressing a key
 - Go to the door to change between the two rooms
-- Eat fruits
+- Eat fruits by touching them
 - If you go through a fruit without eating it, than it is an imposter
 - In a meeting, vote out the fruits that are imposters
 - Try and get past all three meetings to win the game
