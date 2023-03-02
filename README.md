@@ -18,3 +18,7 @@
 - The title screen was modeled after the Among Us title screen
 - Every other image was either from Among Us or from the internet
 - All programming done by me
+
+# Extra Notes
+- All programming was done in 100% Python
+- Code is violating practically all PEP8 guidelines sorry about that
