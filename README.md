@@ -22,3 +22,4 @@
 # Extra Notes
 - All programming was done in 100% Python
 - Code is violating practically all PEP8 guidelines sorry about that
+- If there are any errors, I'm sorry but I really don't care about this project anymore
