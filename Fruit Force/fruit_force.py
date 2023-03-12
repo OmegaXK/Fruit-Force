@@ -371,6 +371,7 @@ def meeting_three():
 							pygame.display.update()
 							pygame.time.wait(4000)
 							game_over = True
+							win = False
 							return
 
 		pygame.display.update()
