@@ -1,4 +1,4 @@
-# Fruit-Force
+# Fruit-Force (*IN PROGRESS*)
 - Start the game by pressing a key
 - Go to the door to change between the two rooms
 - Eat fruits by touching them
@@ -22,4 +22,4 @@
 # Extra Notes
 - All programming was done in 100% Python
 - Code is violating practically all PEP8 guidelines sorry about that
-- If there are any errors, I'm sorry but I really don't care about this project anymore
+- Game is still in prgress, report bugs to me please.
